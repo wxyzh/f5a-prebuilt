@@ -21,8 +21,6 @@ endmacro()
 include (CMakeFindDependencyMacro)
 include (${CMAKE_CURRENT_LIST_DIR}/glog-modules.cmake)
 
-find_dependency (Threads)
-
 
 
 
